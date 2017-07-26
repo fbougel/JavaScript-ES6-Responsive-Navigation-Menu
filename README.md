@@ -12,5 +12,5 @@ As improvements we could:
 -...
 
 You can definitely use it in your further developments if you want.
-
+Here is a CodePen to show how it looks like : [Codepen](https://codepen.io/Modjo/pen/xLGLvx)
 :rocket: Enjoy ! :+1:

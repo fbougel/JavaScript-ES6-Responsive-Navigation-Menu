@@ -9,9 +9,8 @@ As improvements we could:
 - Put the classList.toggle() and classList.remove() functions in respective function and call them.
 - Not using a for loop
 - Minify the code so it loses even more weight
--...
 
 You can definitely use it in your further developments if you want.
-Here is a [Codepen](https://codepen.io/Modjo/pen/xLGLvx) to show how it looks like.
+Here is a [Codepen](https://codepen.io/Modjo/pen/xLGLvx) to show you how it looks like.
 
 :rocket: Enjoy ! :+1:

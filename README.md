@@ -6,7 +6,7 @@ You'll see, there are still a lot of room for improvements but the nav is perfec
 
 As improvements we could:
 
-- Put the classList.toggle() and classList.remove() functions in respective function and call them.
+- Put the classList.toggle() and classList.remove() functions in respective functions and call them.
 - Not using a for loop
 - Minify the code so it loses even more weight
 
